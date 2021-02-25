@@ -9,3 +9,23 @@ header > nav > div {
     width: 100%;
     height: 100px;
 }
+
+main > figure {
+    background-color:khaki;
+    width: 100%;
+    height: 500px;
+    margin: 20px 0;
+}
+
+main > section {
+    background-color: royalblue;
+    width: 100%;
+    height: 600px; 
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color:rebeccapurple;
+    width: 100%;
+    height: 75px;
+}
